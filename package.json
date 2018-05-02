@@ -1,0 +1,27 @@
+{
+  "name": "html-starter-kit",
+  "description": "Simple html starter kit with modular css & js files, that allows you to easily set up new pages",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "scripts": {
+    "start": "gulp watch --silent",
+    "postinstall": "gulp",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "cssnano": "^3.10.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-uglify": "^3.0.0",
+    "postcss-clean": "^1.1.0",
+    "postcss-import": "^11.1.0",
+    "run-sequence": "^2.2.1"
+  }
+}
