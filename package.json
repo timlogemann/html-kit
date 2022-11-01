@@ -16,7 +16,7 @@
     "autoprefixer": "^8.4.1",
     "cssnano": "^3.10.0",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^7.0.1",
     "gulp-uglify": "^3.0.0",
